@@ -9,7 +9,7 @@ The releases in this repository are alpha and beta stages and therefore full of 
  - Core gameplay features, such as UI, AI sandbox and shooting ranges for different weapons.
  - Game systems, like day-night cycle, questing and dialog system and basic systems, like saving, loading and inventory.
  - A sandbox enviroment.
- - Basic quests and dialog.
+ - Basic testing quests and dialog.
 
 ## The contents of these builds DO NOT INCLUDE:
  - The game's story loop.
