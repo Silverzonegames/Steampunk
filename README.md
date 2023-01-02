@@ -22,4 +22,8 @@ If you find a bug, please create an issue on [GitHub](https://github.som/Silverz
 In the report, please decribe the issues and try and add any photos or screenshots to help us find and fix the issue.
 After an issue is submitted, it will be managed by a release admin, who will tell you if the issue is going to be fixed and when.
 
+# Primary release admin:
+[Slimerplanet](https://github.com/slimerplanet), you can contact them for any questions about the project. You may also contact him for a press/preview build of the project as a game reviewer/writer.
+
+
 # For any questions, please contact customer support at [cs@silverzonegames.com](mailto:cs@silverzonegames.com) (e-mail)
