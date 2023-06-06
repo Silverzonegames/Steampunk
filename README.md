@@ -25,5 +25,7 @@ After an issue is submitted, it will be managed by a release admin, who will tel
 # Primary release admin:
 [Slimerplanet](https://github.com/slimerplanet), you can contact them for any questions about the project. You may also contact him for a press/preview build of the project as a game reviewer/writer.
 
+# ADMINISTRATORS NOTICE: THIS REPOSITORY DOES NOT CONTAIN _ANY_ PROJECT SOURCE CODE. IT ONLY CONTAINS ALPHA, BETA AND PREVIEW BUILDS OF THE PROJECT.
+The full code is contained in a private repository
 
 # For any questions, please contact customer support at [cs@silverzonegames.com](mailto:cs@silverzonegames.com) (e-mail)
