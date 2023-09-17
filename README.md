@@ -1,5 +1,8 @@
 # The Steampunkist
 
+# DEVELOPER'S NOTICE: ENGINE CHANGED
+With the recent (September 12th 2023) Unity pricing change, including the Unity Runtime Fee, we have decided to move away from the Unity Engine and Unity Technologies Inc. as a part of our technology stack. Due to this change the release of The Steampunkist will be delayed until we finish converting the game to Godot 4.
+
 # Repo release contents
 The repository is used for alpha and beta stage releases and demos of The Steampunkist, it is not used for the full release.
 <br>
